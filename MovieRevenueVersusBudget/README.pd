@@ -1,0 +1,10 @@
+Movie Revenue versus Budget Over the Time
+
+we're going to be looking at movie budget and revenue data. 
+Here I used tools like seaborn, a popular data visualisation library built on top of Matplotlib and 
+scikit-learn to run and interpret a linear regression, to plot a regression a scatter plot to visualise relationships in the data,
+to add a third dimension to a scatter plot to create a bubble chart
+
+The question we want to answer today is: Do higher film budgets lead to more revenue in the box office? 
+In other words, should a movie studio spend more on a film to make more? 
+also to make a prediction! For example, how much global revenue does our model estimate for a film with a budget of $350 million?
