@@ -1,0 +1,27 @@
+## Problem Statement ##
+
+A mid-sized financial company offers personal and home loans to customers across urban and rural regions of India.
+Everyday,hundreds of customers apply for loans through online and branch applications. 
+The bank faces two major challenges:
+1. Good customers sometimes get rejected, Leading to loss of business.
+2. High-risk customers sometimes get approved leading to financial losses.
+To solve this problem, the bank wants to introduce an intelligent loan approval system powered by Machine Learning that can automatically 
+analyse applicant details and predict whether a loan should be Approved or Rejected before final human verification.
+
+## Solution ##
+
+Each row in the dataset represents a loan applicant and contains multiple attributes describing their personal,financial, and credit information.
+
+1> Seperate Categorical and Numerical Columns to handle missing values.
+2> Check how balance classes are as its a classification problem either loan will be approved or not approved. After EDA it has been found that 
+   29.8% applications were approved while 70.2% application were disapproved. Then check for every column leading to an important finding that
+   high credit score increases the chances of loan approval. Then do outlier detection using box plot and found that there was no outlier in the data.
+3> Performed feature engineering by encoding categorical columns using Label Encoder and One Hot Encoder.
+4> Correlation Heatmapping ( Visual representation of the relationship between numerical variables in a dataset)was performed.
+5> Split data in training and testing data. Scaling is performed.
+6> Build different Models and Evaluate the metrics. Precision Score is taken mainly into consideration as we are more concerned 
+   about False Positives i.e. High-risk customers should not get approved. 
+7> Feature engineering is again performed to intensify the impact of the columns that are meaningful to the output and mute some of the columns.
+   Model evaluation is performed again which indicates that Naive Bayes Model perform best for this data.
+
+
