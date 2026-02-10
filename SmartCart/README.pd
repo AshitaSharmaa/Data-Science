@@ -1,0 +1,42 @@
+SmartCart
+is a growing e-commerce platform serving customers across multiple
+countries. The company collected extensive customer data consisting of 2240
+customer records and 22 attributes including demographics, purchase behaviour,
+website activity, and response.
+generic marketing and engagement strategies
+Currently, SmartCart uses for all
+customers, without clearly understanding different customer behaviour patterns.
+This results in inefficient marketing
+, missed opportunities to retain high-value
+customers, and delayed identification of churn-prone users.
+To solve this, SmartCart aims to build an
+intelligent customer segmentation
+system unsupervised machine learning
+using . The system will analyse historical
+group customers into meaningf
+customer transaction data and based
+ul clusters
+on purchasing behaviour, engagement levels, and loyalty indicators.
+You are hired as an AI/M
+to develop this system using
+L Engineer clustering
+to discover hidden patterns in customer behaviour and support
+algorithms data-
+driven decision-making
+for personalised marketing and customer retention.
+Dataset Description
+Each row in the dataset represents a customer
+and contains multiple attributes
+describing their spending and activity on platform.
+1. Customer Demographics
+sharmaas.sharma@gmail.com
+Feature Description
+ID Unique customer identifier
+Year_Birth Year of
+birth of the customer
+Education Highest education level achieved
+Marital_StatusMarital status of the customer
+Income Yearly household income
+Kidhome Number of small children in household
+Teenhome Number of teenagers in household
+Dt_Customer Date when customer enrolled with SmartCa
