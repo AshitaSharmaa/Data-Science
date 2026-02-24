@@ -1,4 +1,4 @@
-EFFECT OF HANDWASING IN 1800
+EFFECT OF HANDWASING IN 1800:
 
 In the past, people didn't know about bacteria, germs, or viruses. People illness was caused by "bad air" or evil spirits. 
 But in the 1800s Doctors started looking more at anatomy, doing autopsies and making arguments based on data. 
