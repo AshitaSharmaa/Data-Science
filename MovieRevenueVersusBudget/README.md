@@ -1,6 +1,7 @@
 Movie Revenue versus Budget Over the Time
 
 we're going to be looking at movie budget and revenue data. 
+
 Here I used tools like seaborn, a popular data visualisation library built on top of Matplotlib and 
 scikit-learn to run and interpret a linear regression, to plot a regression a scatter plot to visualise relationships in the data,
 to add a third dimension to a scatter plot to create a bubble chart
