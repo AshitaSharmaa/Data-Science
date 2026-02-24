@@ -1,4 +1,4 @@
-Combine Google Trends with other Time Series Data
+Combine Google Trends with Other Time Series Data:
 
 What can the popularity of search terms tell us about the world? Google Trends gives us access to the popularity of Google Search terms.  Let's investigate:
 * How search volume for "Bitcoin" relates to the price of Bitcoin
